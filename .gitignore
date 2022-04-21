@@ -1,0 +1,5 @@
+# python stuff
+.venv/
+
+# data folder
+data/
