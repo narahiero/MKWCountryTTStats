@@ -17,8 +17,8 @@ def mkl_chart_url(cat, chart, track):
 if __name__ == '__main__':
     categories = ['combined', 'nonsc']
     charts = [
-        'benelux', 'canada', 'deat', 'france', 'italy', 'japan', 'latam',
-        'nordic', 'oceania', 'portugal', 'spain', 'ukie', 'usa', 'world'
+        'americas', 'asia', 'benelux', 'canada', 'deat', 'europe', 'france', 'italy',
+        'japan', 'latam', 'nordic', 'oceania', 'portugal', 'spain', 'ukie', 'usa', 'world',
     ]
     tracks = range(49, 81)
 
